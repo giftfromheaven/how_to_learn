@@ -14,6 +14,9 @@
 1. HTML5
 2. CSS3
 
+![2022-01-27_22-44-18](https://user-images.githubusercontent.com/72022227/151432547-72f91882-edf8-44ed-a26e-328e2c20a489.png)
+
+
 ## Ссылка на GitHub Pages
 https://giftfromheaven.github.io/how_to_learn/
 
